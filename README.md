@@ -1,2 +1,2 @@
 # jarvis
-somestimes we need to fly before even we walk - Tonystark 
+sometimes we need to fly before even we walk - Tonystark 
